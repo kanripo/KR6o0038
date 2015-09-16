@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 入大乘論
+#+DATE: 2015-08-30 20:59:29.505938
+#+PROPERTY: JUAN 0
